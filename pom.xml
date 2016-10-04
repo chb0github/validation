@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.bongiorno.validation</groupId>
 	<artifactId>validation</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>validation</name>
 	<description>Set of additional JSR 349 (formerly JSR 303) constraints and validators</description>
 
