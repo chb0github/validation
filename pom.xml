@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.bongiorno.validation</groupId>
 	<artifactId>validation</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.2</version>
 	<name>validation</name>
 	<description>Set of additional JSR 349 (formerly JSR 303) constraints and validators</description>
 
@@ -32,7 +32,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:chb0github/validation.git</connection>
 		<url>https://github.com/chb0github/validation</url>
-		<tag>HEAD</tag>
+		<tag>validation-1.0.2</tag>
 	</scm>
 
 	<dependencies>
