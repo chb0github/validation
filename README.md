@@ -1,3 +1,8 @@
+[![My Stack Overflow Profile][2]][1] 
+
+  [1]: http://stackexchange.com/users/673865
+  [2]: http://stackoverflow.com/users/flair/889053.png
+
 # Validation
 This library provides a set of additional bean validation (JSR 349 formerly JSR 303) constraints and validators.
 You find the constraints in the package
